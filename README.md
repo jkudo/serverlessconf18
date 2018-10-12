@@ -1,3 +1,3 @@
 # serverlessconf18
 
-Hello Serverless World.
+Hello Serverless World
